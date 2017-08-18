@@ -1,0 +1,7 @@
+Libraries were used in this project:
+	
+	1) Laravel (PHP Framework).
+	2) Bootstrap.
+	3) JQuery.
+	4) Slim for adding and editting images.
+	5) Datatables for showing data in admin dashboard. 
