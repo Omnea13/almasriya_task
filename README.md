@@ -26,4 +26,4 @@ To Run the project follow these steps:
 
 	12. Finally you can open the project in your browser "localhost/task".
 
-		*You Can login as an admin using these information "email: admin@admin.com" and "password: 123456". # almasriya_task
+		*You Can login as an admin using these information "email: admin@admin.com" and "password: 123456". 
