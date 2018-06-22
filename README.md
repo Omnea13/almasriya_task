@@ -1,4 +1,3 @@
-# almasriya_task
 
 To Run the project follow these steps:
 
